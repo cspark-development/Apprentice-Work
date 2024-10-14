@@ -1,0 +1,11 @@
+{
+  "name": "cash-register-project",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Curt Spark",
+  "license": "ISC",
+  "description": ""
+}

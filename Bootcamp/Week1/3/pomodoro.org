@@ -1,0 +1,3 @@
+Pomodoro is an italian word meaning tomato, it's based on the pomodoro kitchen timer which typically works on timed segments.
+
+The structure is that you have typically 25 minute length segments, this is referred to as a pomodoro which is a time unit. After every pomodoro you have a 5 minute break,  after 4 pomodoro's you have a long break.
