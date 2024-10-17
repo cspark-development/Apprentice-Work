@@ -1,0 +1,25 @@
+/* WRITE YOUR CODE HERE 
+In style.css, create the following rulesets:
+
+    Select for the h1 element and give it a background color of lightseagreen.
+    Select all elements with a class of turquoise and give it a color of turquoise
+    Select all elements with a class of indigo and give it a color of white and a background color of indigo.
+    Select all elements with an id of big and give it a font-size of 40px.
+*/
+
+h1 {
+	background-color: lightseagreen;
+}
+
+.turquoise {
+	color: turquoise;
+}
+
+.indigo {
+	color: white;
+	background-color: indigo;
+}
+
+#big {
+	font-size: 40px;
+}

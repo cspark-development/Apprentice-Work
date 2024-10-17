@@ -1,0 +1,20 @@
+/* Write your code here 
+A style.css file has been created for you. Create a <link> tag in your index.html to link this style.css file to your index.html.
+In style.css, create a ruleset that:
+
+    Selects the h1 element
+    Changes the font-size to 20px.
+
+In style.css, create a ruleset that:
+
+    Selects the ul element
+    Changes the color to salmon
+*/
+
+h1 {
+	font-size: 20px;
+}
+
+ul {
+	color: salmon;
+}

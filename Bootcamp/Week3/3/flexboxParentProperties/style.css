@@ -1,0 +1,39 @@
+/*
+Set the display to flex.
+Align content along the main-axis with space-around using justify-content.
+Align content center across the cross axis using align-items.
+Allow flex children to wrap within the container by setting flex-wrap to wrap.
+*/
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.flexChild1 {
+    background-color: #FE7B66;
+}
+.flexChild2 {
+    background-color: #59D8A1;
+}
+.flexChild3 {
+    background-color: #FFE252;
+}
+
+.container div {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    padding: .5rem;
+}
+
+.container {
+    border: .3rem solid #64ABFE;
+    width: 100vw;
+    height: 100vh;
+    /* Write your code here */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap; 
+}
