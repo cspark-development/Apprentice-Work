@@ -1,0 +1,14 @@
+{
+  "name": "asyncawait",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
