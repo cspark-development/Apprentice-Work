@@ -1,0 +1,16 @@
+{
+  "name": "manytomanyrelationships",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node seed.js && jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "onetoonerelationships",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "seed": "node seed.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
